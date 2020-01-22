@@ -8,7 +8,7 @@
   },
   "dependencies": {
     "react": "15.2.1",
-    "react-native": "0.31.0",
+    "react-native": "0.49.0",
     "react-native-button-component": "0.0.5",
     "react-native-linear-gradient": "^1.5.12",
     "react-native-popup-dialog": "../"
