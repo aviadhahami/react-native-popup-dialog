@@ -32,7 +32,7 @@
   "homepage": "https://github.com/jacklam718/react-native-modals/blob/master/README.md",
   "dependencies": {
     "babel-plugin-flow-react-proptypes": "^9.1.1",
-    "prop-types": "^15.6.0",
+    "prop-types": "^15.7.2",
     "react-native-root-siblings": "^3.2.2",
     "snyk": "^1.399.1"
   },
